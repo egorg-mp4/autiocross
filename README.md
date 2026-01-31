@@ -12,6 +12,8 @@
 **403 — access denide**
 
 
+**420 — server is paused because devs are high **
+
 ## Methods
 -------
  **GET `/api/spotify/playlists`**
