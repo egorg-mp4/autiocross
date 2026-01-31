@@ -1,18 +1,17 @@
 -------
 ## Error codes:
 
-*~~300 — intermission to intercourse~~*
+- *~~300 — intermission to intercourse~~*
 
-**404 — page not found**
+- **404 — page not found**
 
-*~~440 — page with pitchfork~~* 
+- *~~440 — page with pitchfork~~* 
 
-**400 — no server token**
+- **400 — no server token**
 
-**403 — access denide**
+- **403 — access denide**
 
-
-**420 — server is paused because devs are high **
+- **420 — server is paused because devs are high**
 
 ## Methods
 -------
