@@ -2,10 +2,15 @@
 ## Error codes:
 
 *~~300 — intermission to intercourse~~*
+
 **404 — page not found**
+
 *~~440 — page with pitchfork~~* 
+
 **400 — no server token**
+
 **403 — access denide**
+
 
 ## Methods
 -------
